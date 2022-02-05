@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-  <img align="right" alt="GIF" src="https://github.com/selvaradjousk/selvaradjousk/blob/main/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/selvaradjousk/selvaradjousk/blob/main/code.gif?raw=true" width="800" height="400" />
 
