@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  ✨special ✨
 
 <!--
 **selvaradjousk/selvaradjousk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+  <img align="right" alt="GIF" src="https://github.com/selvaradjousk/selvaradjousk/blob/main/code.gif?raw=true" width="500" height="320" />
+
